@@ -1,2 +1,3 @@
 # Challenge1-lynde-2020
- 
+Ik heb de layout van vorig jaar gebruikt, dus de kleuren en de data visualisaties. Ik heb wel de grid verbeterd. 
+De kleuren groen/blauw heb ik gekozen omdat ik dat goed bij de ruimte vind passen. Verder (had ik vorig jaar) eerst bedacht wat voor data's ik wil en daarbij visualisaties gezocht. Vanaf desktop formaat gaan twee boxen naast elkaar. De box met de middelste datavisualisatie van de mobiele versie staat nu onderaan omdat dat een langwerperige visualisatie is. ik heb gekozen voor de data's nog af te leggen afstand, voorraad water en de snelheid. 
