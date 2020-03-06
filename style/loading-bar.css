@@ -1,0 +1,32 @@
+.ldBar{
+	position:relative;
+	content: "%";
+}
+.ldBar.label-center1{
+	width: 100%;
+	left: 32%;
+	content: "%";
+	} 
+.ldBar.label-center2{
+	left: 35%;
+	margin-top: 10px;
+	content: "%";
+}
+.ldBar-label{
+	position:absolute;
+	top:50%;
+	left:50%;
+	-webkit-transform:translate(-50%,-50%);
+	transform:translate(-50%,-50%);
+	text-shadow:0 0 3px #fff;
+}
+.ldBar-label:after{
+	content:"%";
+	display:inline
+}
+.ldBar.no-percent{
+
+}
+.ldBar-label:after{
+	content:""
+}
